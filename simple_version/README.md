@@ -4,7 +4,7 @@ This project is a Raspberry Pi 4 based mobile robot with manual and vision-based
 
 ## Files
 - manual.py : Keyboard controlled driving
-- vision.py : Camera based autonomous driving
+- robot.py : Camera based autonomous driving
 
 ## Hardware
 - Raspberry Pi 4
