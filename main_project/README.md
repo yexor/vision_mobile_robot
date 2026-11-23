@@ -4,7 +4,7 @@ A Raspberry Pi 4-based mobile robot featuring AI-powered vision control, manual 
 
 This project combines computer vision, embedded systems, motor control, and wireless communication to create a mobile robot capable of both manual and vision-based navigation.
 
-![Robot Hardware](robot_hardware.jpg)
+![Robot Hardware](robot_hardware_prototype.jpg)
 
 ## Features
 
